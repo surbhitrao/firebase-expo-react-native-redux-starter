@@ -33,7 +33,7 @@ yarn install
 ### Create firebase app
 
 - You'll need a JavaScript (web or Node.js) app to create at Firebase.
-- Find firebase.json file in src directory, rename it to firebase.json and edit it with your Firebase app configuration.
+- Find firebase.json file in src directory, edit it with your Firebase app configuration.
 
 ### Add rules to firebase database
 
