@@ -56,7 +56,7 @@ Also give authentication permission in Firebase console via Email and password.
 
 ## Application
 
-## IOS and Android
+## iOS and Android
 
 ````
 yarn start
